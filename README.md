@@ -1,19 +1,8 @@
 ## Hi, I’m Kashaf 👋
 
-**CS ∪ Math student at haverford and bryn mawr  
-interested in systems, problem-solving, and building things that actually matter.
-
-I spend most of my time learning how ideas move from theory → code → impact.
-Sometimes that means debugging for hours, sometimes it means rethinking the problem entirely.
-
----
-
-## what I care about 🌍
-
-- using computer science + math to **solve real problems**
-- writing code that is **clear, thoughtful, and maintainable**
-- learning deeply instead of rushing results
-- contributing to things bigger than myself through **open source**
+- CS @ Haverford, Math @ Bryn Mawr 
+- Drawn to AI, Robotics, Embedded Software and NLP
+- Learning how ideas move from theory → code → impact  
 
 ---
 
