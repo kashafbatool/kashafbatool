@@ -5,7 +5,7 @@
 - Learning how ideas move from theory → code → impact  
 
 ---
-## What I’m working on 🚀
+## What I’m working on 
 
 - building inquirer, a learning game that helps young kids explore ideas by asking questions and playing
 - learning systems thinking across software, hardware, and embedded contexts
