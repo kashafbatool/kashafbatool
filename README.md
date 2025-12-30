@@ -7,18 +7,18 @@
 ---
 ## What I’m working on 
 
-- building inquirer, a learning game that helps young kids explore ideas by asking questions and playing
-- learning systems thinking across software, hardware, and embedded contexts
-- contributing to open source through small fixes, documentation, and learning from real codebases
+- Building inquirer, a learning game that helps young kids explore ideas by asking questions and playing
+- Learning systems thinking across software, hardware, and embedded contexts
+- Contributing to open source through small fixes, documentation, and learning from real codebases
 
 ---
 
 ## My cozy corner of the internet
 
 I write on **Substack** about:
-- learning computer science & math  
-- building projects from scratch  
-- reflections on growth, tech, and problem-solving  
+- Learning computer science & math  
+- Building projects from scratch  
+- Reflections on growth, tech, and problem-solving  
 
 📖 **Read here:** [kashafbatool.substack.com](https://kashafbatool.substack.com)
 
