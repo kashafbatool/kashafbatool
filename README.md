@@ -1,7 +1,7 @@
 ## Hi, I’m Kashaf 👋
 
 - CS @ Haverford, Math @ Bryn Mawr 
-- Drawn to AI, Robotics, Embedded Software and NLP
+- Drawn to AI, Robotics, Cloud Architecture, Embedded Software and NLP
 - Learning how ideas move from theory → code → impact  
 
 ---
