@@ -1,27 +1,17 @@
-## Hi, I’m Kashaf 👋
+<img src="terminal.svg" alt="terminal intro" width="720">
 
-- CS @ Haverford, Math @ Bryn Mawr 
-- Drawn to AI, Robotics, Cloud Architecture, Embedded Software and NLP
-- Learning how ideas move from theory → code → impact  
+## 💼 What I'm doing right now
 
----
-## What I’m working on 
+**Software Engineering Intern @ Pulse** *(June 2026 – Present)*
 
-- Building inquirer, a learning game that helps young kids explore ideas by asking questions and playing
-- Learning systems thinking across software, hardware, and embedded contexts
-- Contributing to open source through small fixes, documentation, and learning from real codebases
+Working across two parallel workstreams on Pulse's backend and cloud pipeline. I write pytest integration and orchestration tests covering health checks, validation, and processing flows, and I've been deep in the weeds of CI — debugging branch and environment mismatches, fixing pre-existing failures, and isolating dependencies into clean virtual environments so 50+ tests run reliably.
 
----
+**Software Engineering Intern @ Pennsylvania Horticultural Society** *(June 2026 – Present)*
 
-## My cozy corner of the internet
+Helping migrate a 1,000+ page website from Apostrophe CMS to WordPress. I rewrite and restructure content from cross-departmental audits, build event pages with semantic HTML, and engineered a Python + Playwright automation pipeline that batch-exports 2,500+ pages as PDFs — replacing what would have been weeks of manual clicking.
 
-I write on **Substack** about:
-- Learning computer science & math  
-- Building projects from scratch  
-- Reflections on growth, tech, and problem-solving  
-
-📖 **Read here:** [kashafbatool.substack.com](https://kashafbatool.substack.com)
+**Student @ Bryn Mawr College** — CS major with an AB/MA in Mathematics, class of 2028.
 
 ---
-<!-- Markdown -->
 
+Outside of work: cricket and badminton 🏸, an ongoing search for Philly's best boba 🧋, and a reading list that keeps growing faster than I can finish it 📚
