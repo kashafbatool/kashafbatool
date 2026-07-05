@@ -1,6 +1,6 @@
 <img src="terminal.svg" alt="terminal intro" width="720">
 
-## 💼 What I'm doing right now
+## What I'm doing right now
 
 **Software Engineering Intern @ Pulse** 
 
